@@ -35,3 +35,8 @@ O se puede utilizar el operador OR
 
 ![Consulta4](img/Consulta4_2.png "Consulta4")
 
+5. Si se desea obtener los registros cuya identificacion sea menor de '110' y la ciudad sea 'Cali' se debe utilizar el operadodr AND
+
+`SELECT * FROM usuario WHERE Identificaicon<'110' AND ciudad='Cali'`
+
+![Consulta5](img/Consulta5.png "Consulta5")
