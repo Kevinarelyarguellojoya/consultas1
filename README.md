@@ -35,8 +35,12 @@ O se puede utilizar el operador OR
 
 ![Consulta4](img/Consulta4_2.png "Consulta4")
 
-5. Si se desea obtener los registros cuya identificacion sea menor de '110' y la ciudad sea 'Cali' se debe utilizar el operadodr AND
-
-`SELECT * FROM usuario WHERE Identificaicon<'110' AND ciudad='Cali'`
+5. Si se desea obtener los registros cuya identificacion sea menor de '110' y la ciudad sea 'Cali' se debe utilizar el operador AND
 
 ![Consulta5](img/Consulta5.png "Consulta5")
+
+6. Si se desea obtener los registros cuyos nombres empiecen por la letra 'A' se debe utilizar el operador LIKE que utiliza los patrones'%' (todos) y '_' (caracter)
+
+`SELECT * FROM usuario WHERE nombre LIKE'A%'`
+
+![Consulta6](img/Consulta4_2.png "Consulta6")
