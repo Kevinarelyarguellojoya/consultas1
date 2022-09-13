@@ -44,3 +44,9 @@ O se puede utilizar el operador OR
 `SELECT * FROM usuario WHERE nombre LIKE'A%'`
 
 ![Consulta6](img/Consulta6.png "Consulta6")
+
+7. Si desea obtener los registros cuyos nombres contengan la letra 'a' 
+
+`SELECT * FROM usuario WHERE nombre LIKE '%a%'`
+
+![Consulta7](img/Consulta7.png "Consulta7")
