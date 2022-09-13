@@ -43,4 +43,4 @@ O se puede utilizar el operador OR
 
 `SELECT * FROM usuario WHERE nombre LIKE'A%'`
 
-![Consulta6](img/Consulta4_2.png "Consulta6")
+![Consulta6](img/Consulta6.png "Consulta6")
