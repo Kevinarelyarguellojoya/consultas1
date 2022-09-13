@@ -50,3 +50,10 @@ O se puede utilizar el operador OR
 `SELECT * FROM usuario WHERE nombre LIKE '%a%'`
 
 ![Consulta7](img/Consulta7.png "Consulta7")
+
+8. Si se desea obtener los registros donde la cuerta letra del nombre sea una 'a' 
+
+`SELECT * FROM usuario WHERE nombre LIKE'   a%'`
+
+![Consulta8](img/Consulta8.png "Consulta8")
+
