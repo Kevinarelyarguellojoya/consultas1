@@ -96,4 +96,4 @@ Permite obtener datos de dos o mas tablas cuando se realiza la concanetacion de 
 
 `SELECT usuario.Identificacion, usuario.nombre, usuario.apellidos, pedido.nropedido, pedidos.fechaCompra, pedidos.fechaVence, pedidos.observacion FROM usuario INNER JOIN pedidos ON usuario.Identificaicon = pedidos.Identificacion`
 
-![Consulta12](img/Consulta12.png"Consulta12")
+![Consulta12](img/Consulta12.png "Consulta12")
